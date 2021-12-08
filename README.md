@@ -1,2 +1,2 @@
 # yml-woocommerce
-yml for woocommerce
+Генерация YML файла турбо страниц для Яндекса для CMS Wordpress Woocommerce
